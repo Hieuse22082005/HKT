@@ -1,3 +1,4 @@
+// code nay sua tren web
 // Lớp BankAccount đại diện cho một tài khoản ngân hàng
 class BankAccount {
     private String owner;
